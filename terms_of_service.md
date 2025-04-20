@@ -1,8 +1,11 @@
 # Terms of Service
 
-## Last Updated: April 9, 2025
+## Last Updated: April 20, 2025
 
 Please read these Terms of Service ("Terms") carefully before using the USCIS Case Tracker mobile application.
+
+Disclaimer: USCIS Case Tracker is an independent application and is not affiliated with, endorsed by, or sponsored by the U.S. Citizenship and Immigration Services (USCIS) or any other government agency.
+
 
 ## Acceptance of Terms
 
