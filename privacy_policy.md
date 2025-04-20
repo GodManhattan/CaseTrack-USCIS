@@ -1,8 +1,10 @@
 # Privacy Policy
 
-## Last Updated: April 9, 2025
+## Last Updated: April 20, 2025
 
 Welcome to the USCIS Case Tracker app. We are committed to protecting your privacy and ensuring transparency about how we handle your information.
+
+Disclaimer: This app is not affiliated with or endorsed by the U.S. Citizenship and Immigration Services (USCIS) or any other government agency. It is an independent tool designed to help users track their USCIS cases using publicly available information.
 
 ## Information We Collect
 
