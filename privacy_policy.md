@@ -60,5 +60,5 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 If you have any questions about this Privacy Policy, please contact us at:
 
-- Email: privacy@usciscasetracker.com
-- Mail: USCIS Case Tracker, 123 App Street, San Francisco, CA 94103
+- Email: marlondevcomp@gmail.com
+
