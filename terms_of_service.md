@@ -4,8 +4,7 @@
 
 Please read these Terms of Service ("Terms") carefully before using the USCIS Case Tracker mobile application.
 
-Disclaimer: USCIS Case Tracker is an independent application and is not affiliated with, endorsed by, or sponsored by the U.S. Citizenship and Immigration Services (USCIS) or any other government agency.
-
+This app is not affiliated with or endorsed by the U.S. Citizenship and Immigration Services (USCIS) or any other government agency. It is an independent tool created by a third-party developer to help users track their USCIS cases. The app uses publicly available information provided through the official USCIS Case Status API.
 
 ## Acceptance of Terms
 
@@ -15,7 +14,7 @@ By downloading, installing, or using the USCIS Case Tracker app, you agree to be
 
 USCIS Case Tracker is a mobile application that allows users to track the status of their USCIS immigration cases. The app offers:
 
-- Free tracking of up to 3 USCIS cases
+- Free tracking of up to 1 USCIS cases
 - Premium subscription options for unlimited case tracking and additional features
 - Case status updates directly from USCIS
 
