@@ -1,11 +1,11 @@
 # Terms of Service
 
 ## Last Updated: April 20, 2025
-These Terms of Service ("Terms") govern your access to and use of CaseTrack-USCIS ("Service") provided by Marlon Martinez ("we", "us", or "our").
+These Terms of Service ("Terms") govern your access to and use of Case Track USCIS ("Service") provided by Marlon Martinez ("we", "us", or "our").
 
 Please read these Terms of Service ("Terms") carefully before using the Case Track USCIS mobile application.
 
- Disclaimer: This app is not affiliated with or endorsed by the U.S. Citizenship and Immigration Services (USCIS) or any other government agency. It is an independent tool created by a third-party developer to help users track their USCIS cases. The app uses publicly available information provided through the official USCIS Case Status API.
+Disclaimer: This app is not affiliated with or endorsed by the U.S. Citizenship and Immigration Services (USCIS) or any other government agency. It is an independent tool created by a third-party developer to help users track their USCIS cases. The app uses publicly available information provided through the official USCIS Case Status API.
 
 ## Acceptance of Terms
 
@@ -13,7 +13,7 @@ By downloading, installing, or using the Case Track USCIS app, you agree to be b
 
 ## Description of Service
 
-USCIS Case Tracker is a mobile application that allows users to track the status of their USCIS immigration cases. The app offers:
+Case Track USCIS is a mobile application that allows users to track the status of their USCIS immigration cases. The app offers:
 
 - Free tracking of up to 1 USCIS cases
 - Premium subscription options for unlimited case tracking and additional features
@@ -23,7 +23,7 @@ USCIS Case Tracker is a mobile application that allows users to track the status
 
 ### Free Version
 
-- Track up to 3 USCIS cases
+- Track up to 1 USCIS cases
 - Basic notifications for case updates
 - Ad-supported interface
 
