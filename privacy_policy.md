@@ -1,6 +1,7 @@
 # Privacy Policy
 
 ## Last Updated: April 20, 2025
+This Privacy Policy describes how CaseTrack USCIS ("we", "us", or "our")—operated by Marlon Martinez—collects, uses, and protects your information when you use our service.
 
 Welcome to the USCIS Case Tracker app. We are committed to protecting your privacy and ensuring transparency about how we handle your information.
 
