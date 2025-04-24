@@ -1,66 +1,39 @@
 # Privacy Policy
 
-## Last Updated: April 23, 2025
-This Privacy Policy describes how Case Track USCIS ("we", "us", or "our")—operated by Marlon Martinez—collects, uses, and protects your information when you use our service.
+**Effective Date:** April 23rd, 2025
+**Developer:** Marlon Martinez
 
-Welcome to the Case Track USCIS app. We are committed to protecting your privacy and ensuring transparency about how we handle your information.
+This Privacy Policy describes how **Case Track USCIS**, a mobile application developed and maintained by **Marlon Martinez**, handles user data. By using the app, you acknowledge and agree to this policy.
 
-Disclaimer: This app is not affiliated with or endorsed by the U.S. Citizenship and Immigration Services (USCIS) or any other government agency. It is an independent tool created by a third-party developer to help users track their USCIS cases. The app uses publicly available information provided through the official USCIS Case Status API.
+## 1. Information We Collect
 
-## Information We Collect
+The app does **not collect, store, or share** any personally identifiable information (PII).
 
-none
+Users may input USCIS case numbers, which are sent directly to the official U.S. Citizenship and Immigration Services (USCIS) public API. No data is retained, transmitted to third parties, or stored on any server owned or operated by the developer.
 
-### Information You Provide
+## 2. Use of Information
 
-- **USCIS Receipt Numbers**: We collect and store the USCIS receipt numbers you enter to track your cases.
-- **Purchase Information**: If you subscribe to our Premium service, we process payment information through Google Play Store's secure payment system (we never directly access or store your payment details).
+The input provided is used solely to retrieve case status information from the publicly accessible USCIS API. The app does not modify, analyze, or process this information beyond display for user convenience.
 
-### Information Collected Automatically
+## 3. Data Security
 
-- **Usage Data**: We collect anonymous data about how you use the app, including features accessed and error logs.
-- **Device Information**: Basic information about your device (operating system version, device model) to troubleshoot issues.
+Because the app does not store personal data, exposure risk is minimal. The app operates locally on your device and communicates directly with the USCIS public API over secure connections (HTTPS).
 
-## How We Use Your Information
+## 4. No Government Affiliation
 
-We use the information we collect to:
+**Case Track USCIS** is an independently developed tool and is **not affiliated with, endorsed by, or operated by** the U.S. Citizenship and Immigration Services (USCIS) or any government agency. All data comes from publicly accessible sources.
 
-- Track and display your USCIS case statuses
-- Process and maintain your Premium subscription
-- Improve the app functionality and user experience
-- Fix bugs and technical issues
-- Ensure app security and prevent fraud
+## 5. Limitation of Liability
 
-## Data Storage and Security
+The developer, **Marlon Martinez**, shall not be liable for any inaccuracies, damages, losses, or legal claims arising from use of this app, including reliance on case data retrieved from the USCIS API. Use of this app is entirely at your own risk.
 
-- USCIS receipt numbers are stored securely on your device using industry-standard encryption
-- API authentication tokens are stored in secure storage with proper expiration handling
-- We implement appropriate technical measures to protect your information
+## 6. Changes to This Policy
 
-## Information Sharing
+This policy may be revised periodically. Continued use of the app constitutes your acceptance of any changes.
 
-We do not sell, trade, or otherwise transfer your information to outside parties except in the following circumstances:
+## 7. Contact
 
-- To third-party service providers that assist us in operating our app (such as the USCIS API service)
-- If required by law or to protect our rights
-- In the event of a business transfer or acquisition
+For questions or concerns, you may contact the developer at:
 
-## Your Choices
-
-- You can delete any USCIS receipt number from the app at any time
-- You can request deletion of all your data by contacting us
-- You can manage your subscription through Google Play Store
-
-## Children's Privacy
-
-Our app is not intended for children under 13, and we do not knowingly collect personal information from children under 13.
-
-## Changes to This Privacy Policy
-
-We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last Updated" date.
-
-## Contact Us
-
-If you have any questions about this Privacy Policy, please contact us at:
-
-- Email: marlondevcomp@gmail.com
+**Marlon Martinez**  
+Email: marlondevcomp@gmail.com
