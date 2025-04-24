@@ -1,6 +1,6 @@
 # Terms of Service
 
-## Last Updated: April 20, 2025
+## Last Updated: April 23, 2025
 These Terms of Service ("Terms") govern your access to and use of Case Track USCIS ("Service") provided by Marlon Martinez ("we", "us", or "our").
 
 Please read these Terms of Service ("Terms") carefully before using the Case Track USCIS mobile application.
