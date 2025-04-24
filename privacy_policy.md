@@ -1,11 +1,11 @@
 # Privacy Policy
 
-## Last Updated: April 20, 2025
-This Privacy Policy describes how CaseTrack USCIS ("we", "us", or "our")—operated by Marlon Martinez—collects, uses, and protects your information when you use our service.
+## Last Updated: April 23, 2025
+This Privacy Policy describes how Case Track USCIS ("we", "us", or "our")—operated by Marlon Martinez—collects, uses, and protects your information when you use our service.
 
-Welcome to the USCIS Case Tracker app. We are committed to protecting your privacy and ensuring transparency about how we handle your information.
+Welcome to the Case Track USCIS app. We are committed to protecting your privacy and ensuring transparency about how we handle your information.
 
- Disclaimer: This app is not affiliated with or endorsed by the U.S. Citizenship and Immigration Services (USCIS) or any other government agency. It is an independent tool created by a third-party developer to help users track their USCIS cases. The app uses publicly available information provided through the official USCIS Case Status API.
+Disclaimer: This app is not affiliated with or endorsed by the U.S. Citizenship and Immigration Services (USCIS) or any other government agency. It is an independent tool created by a third-party developer to help users track their USCIS cases. The app uses publicly available information provided through the official USCIS Case Status API.
 
 ## Information We Collect
 
