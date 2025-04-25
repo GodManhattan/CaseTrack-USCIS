@@ -5,7 +5,8 @@
 **Developer:** Marlon Martinez
 
 These Terms of Service ("Terms") govern your use of the **Case Track USCIS** mobile application. By using the app, you agree to these Terms.
-Disclaimer: This app is not affiliated with or endorsed by the U.S. Citizenship and Immigration Services (USCIS) or any other government agency. It is an independent tool created by a third-party developer to help users track their USCIS cases. The app uses publicly available information provided through the official USCIS Case Status API.
+
+Disclaimer: Case Track USCIS is an independent app developed by Marlon Martinez. It is not affiliated with or endorsed by the U.S. Citizenship and Immigration Services (USCIS), the U.S. Department of Homeland Security (DHS), or any government agency. The app uses publicly available data from the official USCIS Case Status API.
 
 ## 1. Ownership
 
