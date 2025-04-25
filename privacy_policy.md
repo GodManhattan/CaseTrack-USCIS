@@ -5,7 +5,9 @@
 **Developer:** Marlon Martinez
 
 This Privacy Policy describes how **Case Track USCIS**, a mobile application developed and maintained by **Marlon Martinez**, handles user data. By using the app, you acknowledge and agree to this policy.
-Disclaimer: This app is not affiliated with or endorsed by the U.S. Citizenship and Immigration Services (USCIS) or any other government agency. It is an independent tool created by a third-party developer to help users track their USCIS cases. The app uses publicly available information provided through the official USCIS Case Status API.
+
+Disclaimer: Case Track USCIS is an independent app developed by Marlon Martinez. It is not affiliated with or endorsed by the U.S. Citizenship and Immigration Services (USCIS), the U.S. Department of Homeland Security (DHS), or any government agency. The app uses publicly available data from the official USCIS Case Status API.
+
 ## 1. Information We Collect
 
 The app does **not collect, store, or share** any personally identifiable information (PII).
