@@ -1,16 +1,16 @@
 # Terms of Service
 
-**Effective Date:** April 23rd, 2025
+**Effective Date:** April 24th, 2025
 
 **Developer:** Marlon Martinez
 
-These Terms of Service ("Terms") govern your use of the **Case Track USCIS** mobile application. By using the app, you agree to these Terms.
+These Terms of Service ("Terms") govern your use of the **Case Track: Immigration Status** mobile application. By using the app, you agree to these Terms.
 
-Disclaimer: Case Track USCIS is an independent app developed by Marlon Martinez. It is not affiliated with or endorsed by the U.S. Citizenship and Immigration Services (USCIS), the U.S. Department of Homeland Security (DHS), or any government agency. The app uses publicly available data from the official USCIS Case Status API.
+Disclaimer: Case Track: Immigration Status is an independent app developed by Marlon Martinez. It is not affiliated with or endorsed by the U.S. Citizenship and Immigration Services (USCIS), the U.S. Department of Homeland Security (DHS), or any government agency. The app uses publicly available data from the official USCIS Case Status API.
 
 ## 1. Ownership
 
-**Case Track USCIS** is developed, owned, and maintained solely by **Marlon Martinez**. All rights, title, and interest in the application, including intellectual property rights, belong exclusively to the developer.
+**Case Track: Immigration Status** is developed, owned, and maintained solely by **Marlon Martinez**. All rights, title, and interest in the application, including intellectual property rights, belong exclusively to the developer.
 
 ## 2. Permitted Use
 
